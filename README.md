@@ -1,8 +1,10 @@
 # Leaf-Cybersecurity-Training
-A platform for cybersecurity training
-This project provide a practical view of cyber range design, in which several cyber scenarios can take place.
 
-Hardware requirements: RAM 6 GB, CPU I-5, Graphic 512 MB
+This project represents a practical view of a cyber range design. 
+
+It provides an example of platform for cybersecurity training, in which several cyber scenarios can take place.
+
+Hardware requirements: RAM 6 GB, CPU I-5, Graphic 512 MB.
 
 VirtualBox settings: File -> Preferences -> Network -> Add a network -> NetNetwork -> Edit network with Nat in the CIDR Network change and put 192.168.100.0/24 and "support" check if DHCP is required.
 
