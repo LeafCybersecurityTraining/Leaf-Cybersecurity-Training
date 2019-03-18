@@ -15,4 +15,4 @@ The machines must be imported exactly in this order:
 4.	mail.blue.cyber
 5.	ws1.range1.cyber
 
-After loading the machines you have to start them in the same order.
+After loading the machines, you have to start them in the same order.
